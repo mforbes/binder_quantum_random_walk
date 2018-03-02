@@ -1,0 +1,4 @@
+dependencies:
+  - numpy
+  - matplotlib>=1.5
+  - mmf_setup>=0.1.11
